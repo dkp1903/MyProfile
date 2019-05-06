@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Schooling:
+                      J H Ambani Saraswati Vidyamandir
+                      Passed 12th in 2017 with 94.2%
+                      Passed 10th in 2015 with
+                      CGPA 10/10"
+        android:textSize="14dp"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="College:
+                      Pursuing B.Tech. in
+                      Information and Communication
+                      Technology at
+                      DA-IICT, Gandhinagar"
+        android:textSize="14dp" />
+
+
+
+</LinearLayout>
